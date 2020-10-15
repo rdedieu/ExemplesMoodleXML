@@ -1,5 +1,11 @@
 <?xml version="1.0"?>
 <question type="truefalse">
+  <name>
+		<text>Question True/False</text>
+	</name>
+  <questiontext format="html">
+		<text>Est-ce-vrai ou faux ?</text>
+	</questiontext>
  <answer fraction="100">
     <text>true</text>
     <feedback><text>Correct!</text></feedback>
